@@ -135,7 +135,9 @@ Currently finishing my MS in CS at UB (Research Track, GPA 3.71) where I build f
 
 ## When I'm not coding
 
-⚽ Chelsea FC &nbsp;|&nbsp; 🏈 Buffalo Bills &nbsp;|&nbsp; 🏒 Buffalo Sabres
+![Chelsea](https://img.shields.io/badge/Chelsea%20FC-034694?style=for-the-badge&logo=chelsea&logoColor=white)
+![Buffalo Bills](https://img.shields.io/badge/Buffalo%20Bills-C60C30?style=for-the-badge&logoColor=white)
+![Buffalo Sabres](https://img.shields.io/badge/Buffalo%20Sabres-003087?style=for-the-badge&logoColor=FCB514)
 
 ---
 
