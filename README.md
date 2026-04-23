@@ -15,6 +15,11 @@ Full Stack Development • Cloud Infrastructure • IAM/Identity • Open Source
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rathi-yash)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yashrathi.dev)
 
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%26%20SWE%20Roles-2ea44f?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source%20Collaboration-70A5FD?style=for-the-badge)
+
 </div>
 
 ---
@@ -84,6 +89,7 @@ Currently finishing my MS in CS at UB (Research Track, GPA 3.71) where I build f
 
 - **[Appwrite](https://github.com/appwrite/appwrite)** — Fixed a bug in `createProjectVariable` where updating a secret variable toggled the secret flag incorrectly ([PR #11795](https://github.com/appwrite/appwrite/pull/11795)) ✅ Merged
 - **[Backstage Community Plugins](https://github.com/backstage/community-plugins)** — CSS padding fix in the RBAC plugin (in progress)
+- **[Jest](https://github.com/jestjs/jest)** — Working on a migration contribution (in progress)
 
 ---
 
@@ -128,5 +134,5 @@ Currently finishing my MS in CS at UB (Research Track, GPA 3.71) where I build f
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rathi-yash&style=flat-square&color=70A5FD" alt="Profile views" />
   <br/><br/>
-  <i>Open to full stack and software engineering roles. Let's connect.</i>
+  <i>Open to full stack and software engineering roles — and always happy to collaborate on open source.</i>
 </div>
