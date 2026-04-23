@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/rathi-yash">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yash+Rathi+%F0%9F%91%8B;Full+Stack+Developer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Open+Source+Contributor" alt="Typing SVG" />
-</a>
+## Hey, I'm Yash Rathi 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Open+Source+Contributor;Always+building+something+new" alt="Typing SVG" />
 
 <br/>
 
