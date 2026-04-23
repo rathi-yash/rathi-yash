@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AWS+%7C+Azure+%7C+Kubernetes+%7C+Terraform;Open+Source+Contributor;Always+building+something+new" alt="Typing SVG" />
 
+<br/>
+
 MS Computer Science (Research Track) @ University at Buffalo &nbsp;|&nbsp; GPA 3.71 &nbsp;|&nbsp; Graduating May 2026
 <br/>
 Full Stack Development • Cloud Infrastructure • IAM/Identity • Open Source
@@ -126,6 +128,14 @@ Currently finishing my MS in CS at UB (Research Track, GPA 3.71) where I build f
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathi-yash/rathi-yash/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/rathi-yash/rathi-yash/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+
+---
+
+---
+
+## When I'm not coding
+
+⚽ Chelsea FC &nbsp;|&nbsp; 🏈 Buffalo Bills &nbsp;|&nbsp; 🏒 Buffalo Sabres
 
 ---
 
