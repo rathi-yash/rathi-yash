@@ -115,11 +115,13 @@ Currently finishing my MS in CS at UB (Research Track, GPA 3.71) where I build f
 
 ---
 
-## Trophies
+## Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rathi-yash&theme=tokyonight&no-frame=true&margin-w=12&column=7" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathi-yash/rathi-yash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathi-yash/rathi-yash/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rathi-yash/rathi-yash/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
